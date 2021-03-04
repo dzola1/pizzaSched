@@ -1,0 +1,9 @@
+li a {
+    color: black;
+    padding: 70px 0;
+    border: 3px solid green;
+
+}
+body {
+    background: white url("images/chianti.gif") no-repeat;
+}
