@@ -88,8 +88,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-# Email confirm backend
-EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
+
 
 
 # Internationalization
