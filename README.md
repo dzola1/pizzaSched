@@ -44,8 +44,8 @@ Here's a blank template to get started:
 
 ### Built With
 
-* [](Django)
-* [](Python)
+* []()Django
+* []()Python
 * []()
 
 
