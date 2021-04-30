@@ -32,6 +32,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+This project is a simple Django app used to to help Employees and Managers of Chianti to schedule shifts efficiently and easily
+Employees can provide Manager with availablilty and Manger can post the complete shifts to the website.
+
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
@@ -41,8 +44,8 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
+* [](Django)
+* [](Python)
 * []()
 
 
@@ -64,7 +67,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/dzola1/pizzaSched.git
    ```
 2. Install NPM packages
    ```sh
