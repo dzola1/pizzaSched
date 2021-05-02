@@ -23,7 +23,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -100,7 +99,13 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<!-- HTML & CSS -->
+## HTML & CSS
+Refer to the [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 
+<!-- PYTHON -->
+## Python
+Refer to the [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
 <!-- LICENSE -->
 ## License
