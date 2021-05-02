@@ -41,8 +41,8 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
+* [Django]()
+* [Heroku]()
 * []()
 
 
@@ -112,18 +112,19 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Damaris Zola -- dzola@drew.edu
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Camryn Koch -- ckoch@drew.edu
+
+Shannon Miller -- smiller7@drew.edu
+
+Megan Hulmes -- mhulmes@drew.edu
+
+Project Link: [https://github.com/dzola1/pizzaSched](https://github.com/dzola1/pizzaSched)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
 
-* []()
-* []()
-* []()
 
 
 
