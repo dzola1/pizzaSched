@@ -122,7 +122,8 @@ $ python manage.py migrate
  
 5. Run Server
   ```sh
-  python manage.py runserver```
+  python manage.py runserver
+ ``` 
 
 ### Installation
 
