@@ -96,10 +96,36 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+1. Clone the repository
   ```sh
-  npm install npm@latest -g
+  git clone https://github.com/<username>/<forked-repo>.git
   ```
+2.Create your own virtual environment
+ ```sh
+python3 -m venv venv
+source venv/bin/activate
+  ```
+3. Install your requirements
+
+  ```sh
+pip install -r requirements.txt
+  ```
+4. Make your migrations
+ ```sh
+$ python manage.py makemigrations
+$ python manage.py migrate
+```
+  
+5. Create a new superuser
+   ```sh
+  python manage.py createsuperuser
+  ```
+ 
+6. Run Server
+   ```sh
+  python manage.py runserver
+  ```
+
 
 ### Installation
 
