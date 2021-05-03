@@ -130,7 +130,8 @@ $ python manage.py migrate
 ### Installation
 
 1. Download Django at [https://www.djangoproject.com/start/](https://www.djangoproject.com/start/)
-2. Follow this tutorial to start your first Django app [https://docs.djangoproject.com/en/3.2/intro/tutorial01/](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
+2. Download Python at https://www.python.org/downloads/
+3. Follow this tutorial to start your first Django app [https://docs.djangoproject.com/en/3.2/intro/tutorial01/](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
 
 
 <!-- USAGE EXAMPLES -->
@@ -150,7 +151,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 * Megan Hulmes - mhulmes@drew.edu
 
 
-Project Link: [https://github.com/dzola1/chiantiFinal](https://github.com/dzola1/chiantiFinal)
+Project Link: [https://github.com/dzola1/pizzaSChed](https://github.com/dzola1/pizzaSched)
 
 
 
