@@ -100,7 +100,7 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   git clone https://github.com/<username>/<forked-repo>.git
   ```
-2.Create your own virtual environment
+2. Create your own virtual environment
  ```sh
 python3 -m venv venv
 source venv/bin/activate
@@ -118,7 +118,7 @@ $ python manage.py migrate
   
 5. Create a new superuser
    ```sh
-  python manage.py createsuperuser
+   python manage.py createsuperuser
   ```
  
 6. Run Server
