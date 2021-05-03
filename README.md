@@ -122,7 +122,7 @@ $ python manage.py migrate
   ```
  
 6. Run Server
-   ```sh
+  ```sh
   python manage.py runserver
   ```
 
