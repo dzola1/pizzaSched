@@ -1,0 +1,6 @@
+We were tasked with creating a shift scheduling tool for the employees at Chianti Brick Oven Trattoria in Chatham, NJ.
+
+Mr. G, the manager of Chianti, was scheduling shifts each week by hand, asking each employee to send their availability
+in the form of a text. This way of doing things caused extra stress for Mr. G as well as wasting time each week. We have
+created an online tool to allow employees at Chianti to submit their availabilities for the week, see other employee
+availabilities, and allow Mr. G the ease of automatically recieving employee availability each week.
