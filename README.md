@@ -118,14 +118,11 @@ $ python manage.py migrate
   
 5. Create a new superuser
    ```sh
-   python manage.py createsuperuser
-  ```
+   python manage.py createsuperuser ```
  
-6. Run Server
+5. Run Server
   ```sh
-  python manage.py runserver
-  ```
-
+  python manage.py runserver```
 
 ### Installation
 
