@@ -84,6 +84,7 @@ Mr. G, the manager of Chianti, was scheduling shifts each week by hand, asking e
 ### Built With
 
 * [Django](https://djangoproject.com)
+* [Python](https://www.python.org/)
 
 
 
