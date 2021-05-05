@@ -67,7 +67,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -129,7 +128,7 @@ $ python manage.py migrate
 
 1. Download Django at [https://www.djangoproject.com/start/](https://www.djangoproject.com/start/)
 2. Download Python at https://www.python.org/downloads/
-3. Follow this tutorial to start your first Django app [https://docs.djangoproject.com/en/3.2/intro/tutorial01/](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
+3. You can follow this tutorial to start your first Django app [https://docs.djangoproject.com/en/3.2/intro/tutorial01/](https://docs.djangoproject.com/en/3.2/intro/tutorial01/)
 
 
 <!-- USAGE EXAMPLES -->
@@ -150,23 +149,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 Project Link: [https://github.com/dzola1/pizzaSChed](https://github.com/dzola1/pizzaSched)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
 
 
 
